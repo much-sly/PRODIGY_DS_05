@@ -14,4 +14,4 @@ After exploration, I found out that  weather, road conditions and ignorance are 
 
 The following is a plot that shows the count of accidents per state, California had the majority of accidents likely due to it being alarge state, having major roads passing through it, raod conditions, congestion and ignorance.
 
-![Count of accidents by state]()
+![Count of accidents by state](Number%20of%20Accidents%20Per%20State.png)
